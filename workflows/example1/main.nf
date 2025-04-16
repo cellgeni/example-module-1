@@ -11,10 +11,8 @@ workflow MULTIPLICATE {
         
         // Duplicate files
         duplicated_files = Duplicate(files)
-        duplicated_files.view()
 
         // Triplicate files
         triplicated_files = Triplicate(files)
-        triplicated_files.view()
 
 }

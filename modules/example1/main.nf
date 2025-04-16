@@ -2,10 +2,10 @@ process Duplicate {
     input:
         path(file)
     output:
-        path("duplicated.txt")
+        path("duplicated*")
     script:
         """
-        duplicate.sh ${file} duplicated.txt
+        duplicate.sh ${file} duplicated_${file}
         """
 }
 
@@ -13,9 +13,9 @@ process Triplicate {
     input:
         path(file)
     output:
-        path("triplicated.txt")
+        path("triplicated*")
     script:
         """
-        triplicate.sh ${file} triplicated.txt
+        triplicate.sh ${file} triplicated_${file}
         """
 }
