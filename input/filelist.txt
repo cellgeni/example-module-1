@@ -1,0 +1,10 @@
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/1.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/2.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/3.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/4.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/5.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/6.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/7.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/8.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/9.txt
+/lustre/scratch127/cellgen/cellgeni/aljes/example-module-1/input/files/10.txt
